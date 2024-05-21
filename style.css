@@ -112,8 +112,12 @@ h2{
     background: radial-gradient(#61677A, black);
 }
 .cago{
+    margin-left: 15vw;
   display: flex;
 }
 .megacago{
     justify-content: center;
+}
+.imgblog{
+    height: 300px;
 }
